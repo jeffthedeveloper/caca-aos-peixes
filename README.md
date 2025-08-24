@@ -41,7 +41,7 @@ Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programa
 ```bash
 chmod +x start.sh
 ./start.sh
-
+```
 
 🚀 Como Contribuir
 Faça um fork.
@@ -78,8 +78,7 @@ Run caca-aos-peixes.exe.
 Linux
 Give execution permissions:
 
-bash
-Copiar
-Editar
+```bash
 chmod +x caca-aos-peixes
 ./caca-aos-peixes
+```
