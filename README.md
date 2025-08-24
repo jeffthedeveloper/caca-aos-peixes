@@ -8,6 +8,7 @@ Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programa
 
 [![Veja o gameplay de 1 minuto](https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/toppng.com-scratch-logo-free-download-916x694.png?raw=true)](https://drive.google.com/file/d/10RON_uD4z_OMarAD6W3CL7ahY1ExXJxZ/view?usp=sharing)  
 *Clique na imagem para assistir ao vídeo de prévia (1 minuto) do jogo.*
+*Click on the image to watch a 1-minute gameplay preview*
 
 ---
 
