@@ -49,10 +49,10 @@ Faça um fork.
 Crie uma branch: git checkout -b minha-feature.
 
 Envie um PR!
-
+---
 📜 Licença
 Este projeto é distribuído sob a licença GNU (GPL).
-
+---
 🐟 Fish Hunt (Caça aos Peixes)
 About the Game
 "Fish Hunt" is a fun and educational cross-platform game, designed to prototype concepts of animation, physics, and mathematics. It serves as a learning tool for algorithms and programming, especially aimed at children and pre-teens who want to develop creativity and computational thinking in a playful way.
@@ -82,3 +82,7 @@ Give execution permissions:
 chmod +x start.sh
 ./start.sh
 ```
+---
+📜 License
+This project is distributed under a GNU License (GPL).
+---
