@@ -1,89 +1,72 @@
 # 🐟 Caça aos Peixes
 
-Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programação, física e matemática de forma lúdica.
+*Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programação, física e matemática de forma lúdica.*
 
 ---
 
 ## 🎬 Prévia do Gameplay
 
-[![Veja o gameplay de 1 minuto](https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/toppng.com-scratch-logo-free-download-916x694.png?raw=true)](https://drive.google.com/file/d/10RON_uD4z_OMarAD6W3CL7ahY1ExXJxZ/view?usp=sharing)  
-*Clique na imagem para assistir ao vídeo de prévia (1 minuto) do jogo.*
-<br>*Click on the image to watch a 1-minute gameplay preview*
+![Prévia do Jogo Caça aos Peixes](https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/toppng.com-scratch-logo-free-download-916x694.png?raw=true)
+*(Um GIF animado mostrando o gameplay real é altamente recomendado aqui para capturar o interesse do visitante.)*
 
 ---
+
+## 🎯 Sobre o Projeto
+
+"Caça aos Peixes" é um projeto de código aberto idealizado como uma ferramenta de aprendizado para algoritmos e programação. Utilizando a plataforma Scratch e encapsulado com Electron, o jogo é uma demonstração prática de conceitos como:
+
+-   **Lógica de Jogo:** Condicionais, loops e variáveis para controlar o estado do jogo.
+-   **Física Simples:** Detecção de colisão e movimento de objetos.
+-   **Pensamento Computacional:** Quebra de problemas em etapas lógicas para criar uma experiência interativa.
 
 ## 🎮 Como Jogar
 
 ### Objetivo
-- Capture peixes 🐠 para ganhar pontos.
-- A cada 5 pontos você sobe de nível.
-- Vença capturando **20 ou mais peixes**.
-- Evite as bolas ⚫ — se encostar, é **Game Over**.
+-   **Capture peixes 🐠** para ganhar pontos e avançar de nível.
+-   A cada **5 pontos**, você sobe de nível, aumentando o desafio.
+-   A condição de vitória é capturar **20 ou mais peixes**.
+-   Evite as bolas ⚫ — colidir com elas resulta em **Game Over**.
 
 ### Controles
-- ⬆️ / ⬇️ / ⬅️ / ➡️ → Movem o personagem.
-- **ESPAÇO** → Exibe as instruções no jogo.
+-   **Setas Direcionais (⬆️ ⬇️ ⬅️ ➡️):** Movem o personagem pela tela.
+-   **Barra de Espaço:** Exibe a tela de instruções a qualquer momento durante o jogo.
 
 ---
 
-## 💻 Plataformas Suportadas
+## 💻 Download e Instalação
 
-### 🔹 Windows
-1. Baixe o último release:  
-   👉 [Caça aos Peixes - Windows](https://github.com/jeffthedeveloper/caca-aos-peixes/releases/latest)  
-2. Extraia o `.zip`.
-3. Execute o arquivo **`caca-aos-peixes.exe`**.
+### Windows
+1.  Acesse a página de [Releases](https://github.com/jeffthedeveloper/caca-aos-peixes/releases/latest).
+2.  Baixe o arquivo `caca-aos-peixes-win-x64.zip`.
+3.  Extraia o conteúdo do arquivo `.zip`.
+4.  Execute o `caca-aos-peixes.exe` para jogar.
 
-### 🔹 Linux
-1. Baixe o último release:  
-   👉 [Caça aos Peixes - Linux](https://github.com/jeffthedeveloper/caca-aos-peixes/releases/latest)  
-2. Extraia o `.tar.gz`.
-3. Dê permissão de execução ao script de inicialização e execute-o:  
-```bash
-chmod +x start.sh
-./start.sh
-```
+### Linux
+1.  Acesse a página de [Releases](https://github.com/jeffthedeveloper/caca-aos-peixes/releases/latest).
+2.  Baixe o arquivo `caca-aos-peixes-linux-x64.tar.gz`.
+3.  Extraia o conteúdo do arquivo: `tar -xvzf caca-aos-peixes-linux-x64.tar.gz`.
+4.  Navegue até o diretório extraído e execute o jogo:
+    ```bash
+    cd caca-aos-peixes-linux-x64
+    ./caca-aos-peixes
+    ```
 
-🚀 Como Contribuir
-Faça um fork.
-
-Crie uma branch: git checkout -b minha-feature.
-
-Envie um PR!
 ---
-📜 Licença
-Este projeto é distribuído sob a licença GNU (GPL).
+
+## 🚀 Como Contribuir
+
+Contribuições são bem-vindas! Se você tem ideias para novas funcionalidades, melhorias ou encontrou algum bug, siga os passos abaixo:
+
+1.  **Fork** o repositório.
+2.  Crie uma nova branch para sua feature: `git checkout -b minha-feature`.
+3.  Faça o commit de suas mudanças: `git commit -m 'feat: Adiciona minha nova feature'`.
+4.  Envie suas mudanças para o repositório original: `git push origin minha-feature`.
+5.  Abra um **Pull Request**.
+
+Alternativamente, você pode abrir uma [Issue](https://github.com/jeffthedeveloper/caca-aos-peixes/issues) para discutir as mudanças que gostaria de fazer.
+
 ---
-🐟 Fish Hunt (Caça aos Peixes)
-About the Game
-"Fish Hunt" is a fun and educational cross-platform game, designed to prototype concepts of animation, physics, and mathematics. It serves as a learning tool for algorithms and programming, especially aimed at children and pre-teens who want to develop creativity and computational thinking in a playful way.
 
-🎯 Objective
-Catch fish to earn points and level up.
+## 📜 Licença
 
-Every 5 points, your level increases.
-
-Win by catching 20 or more fish.
-
-Avoid the moving balls ⚫ — collision results in Game Over.
-
-🎮 How to Play
-Arrow keys: Move the character.
-
-SPACE: Show instructions anytime.
-
-💻 Supported Platforms
-Windows
-Run caca-aos-peixes.exe.
-
-Linux
-Give execution permissions:
-
-```bash
-chmod +x start.sh
-./start.sh
-```
----
-📜 License
-This project is distributed under a GNU License (GPL).
----
+Este projeto é distribuído sob a licença GNU General Public License v3.0.
