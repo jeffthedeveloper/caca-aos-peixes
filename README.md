@@ -4,6 +4,13 @@ Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programa
 
 ---
 
+## 🎬 Prévia do Gameplay
+
+[![Veja o gameplay de 1 minuto](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/10RON_uD4z_OMarAD6W3CL7ahY1ExXJxZ/view?usp=sharing)  
+*Clique na imagem para assistir ao vídeo de prévia (1 minuto) do jogo.*
+
+---
+
 ## 🎮 Como Jogar
 
 ### Objetivo
@@ -46,54 +53,31 @@ Este projeto é distribuído sob a licença GNU (GPL).
 
 🐟 Fish Hunt (Caça aos Peixes)
 About the Game
-
-"Fish Hunt" is a fun and educational cross-platform game, designed to prototype concepts of animation, physics, and mathematics. The project serves as a learning tool for algorithms and programming, especially aimed at children and pre-teens who want to develop creativity and computational thinking in a playful way.
+"Fish Hunt" is a fun and educational cross-platform game, designed to prototype concepts of animation, physics, and mathematics. It serves as a learning tool for algorithms and programming, especially aimed at children and pre-teens who want to develop creativity and computational thinking in a playful way.
 
 🎯 Objective
+Catch fish to earn points and level up.
 
-Your goal is to control the cat and catch as many fish as possible while avoiding obstacles that appear on the screen.
+Every 5 points, your level increases.
 
-Main Objective: Catch fish to earn points and level up.
+Win by catching 20 or more fish.
 
-Progression: Every 5 points, your level increases, making the challenge harder.
-
-Victory Condition: To win, catch 20 or more fish.
-
-Defeat Condition: Avoid the moving balls. Colliding with them results in Game Over.
+Avoid the moving balls ⚫ — collision results in Game Over.
 
 🎮 How to Play
+Arrow keys: Move the character.
 
-The controls are simple and intuitive, designed for easy gameplay.
-
-Main Controls
-
-Movement: Use the arrow keys on your keyboard to move the character.
-
-⬆️ (Up Arrow): Move the character up.
-
-⬇️ (Down Arrow): Move the character down.
-
-⬅️ (Left Arrow): Move the character left.
-
-➡️ (Right Arrow): Move the character right.
-
-Instructions: Press the SPACE key at any time during the game to view instructions again.
+SPACE: Show instructions anytime.
 
 💻 Supported Platforms
-
-The game is cross-platform, with confirmed support for the following operating systems:
-
 Windows
-
-To play on Windows, run the caca-aos-peixes.exe file included in the project. No additional installation is required.
+Run caca-aos-peixes.exe.
 
 Linux
+Give execution permissions:
 
-To play on Linux distributions, ensure the executable file has execution permissions. You can do this via the terminal:
-
+bash
+Copiar
+Editar
 chmod +x caca-aos-peixes
 ./caca-aos-peixes
-
-
-Run the caca-aos-peixes file to start the game.
-
