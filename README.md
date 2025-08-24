@@ -21,6 +21,8 @@
 
 ## 🎮 Como Jogar
 
+![Prévia do Jogo Caça aos Peixes]([https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/toppng.com-scratch-logo-free-download-916x694.png?raw=true](https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/gameplay-final-compressed.gif?raw=true))
+
 ### Objetivo
 -   **Capture peixes 🐠** para ganhar pontos e avançar de nível.
 -   A cada **5 pontos**, você sobe de nível, aumentando o desafio.
