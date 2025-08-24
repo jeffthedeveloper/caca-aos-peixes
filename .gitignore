@@ -1,2 +1,6 @@
-*.exe 
-caca-aos-peixes-GNU-Version/ 
+# Ignorar binários grandes
+*.exe
+*.zip
+*.tar.gz
+caca-aos-peixes-GNU-Version/*
+caca-aos-peixes-v1.0.2/*
