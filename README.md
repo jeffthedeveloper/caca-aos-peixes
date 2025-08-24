@@ -6,7 +6,7 @@ Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programa
 
 ## 🎬 Prévia do Gameplay
 
-[![Veja o gameplay de 1 minuto](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/10RON_uD4z_OMarAD6W3CL7ahY1ExXJxZ/view?usp=sharing)  
+[![Veja o gameplay de 1 minuto](https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/toppng.com-scratch-logo-free-download-916x694.png?raw=true)](https://drive.google.com/file/d/10RON_uD4z_OMarAD6W3CL7ahY1ExXJxZ/view?usp=sharing)  
 *Clique na imagem para assistir ao vídeo de prévia (1 minuto) do jogo.*
 
 ---
