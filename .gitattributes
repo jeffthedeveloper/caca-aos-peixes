@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+caca-aos-peixes-GNU-Version filter=lfs diff=lfs merge=lfs -text
