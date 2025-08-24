@@ -44,3 +44,56 @@ Envie um PR!
 📜 Licença
 Este projeto é distribuído sob a licença GNU (GPL).
 
+🐟 Fish Hunt (Caça aos Peixes)
+About the Game
+
+"Fish Hunt" is a fun and educational cross-platform game, designed to prototype concepts of animation, physics, and mathematics. The project serves as a learning tool for algorithms and programming, especially aimed at children and pre-teens who want to develop creativity and computational thinking in a playful way.
+
+🎯 Objective
+
+Your goal is to control the cat and catch as many fish as possible while avoiding obstacles that appear on the screen.
+
+Main Objective: Catch fish to earn points and level up.
+
+Progression: Every 5 points, your level increases, making the challenge harder.
+
+Victory Condition: To win, catch 20 or more fish.
+
+Defeat Condition: Avoid the moving balls. Colliding with them results in Game Over.
+
+🎮 How to Play
+
+The controls are simple and intuitive, designed for easy gameplay.
+
+Main Controls
+
+Movement: Use the arrow keys on your keyboard to move the character.
+
+⬆️ (Up Arrow): Move the character up.
+
+⬇️ (Down Arrow): Move the character down.
+
+⬅️ (Left Arrow): Move the character left.
+
+➡️ (Right Arrow): Move the character right.
+
+Instructions: Press the SPACE key at any time during the game to view instructions again.
+
+💻 Supported Platforms
+
+The game is cross-platform, with confirmed support for the following operating systems:
+
+Windows
+
+To play on Windows, run the caca-aos-peixes.exe file included in the project. No additional installation is required.
+
+Linux
+
+To play on Linux distributions, ensure the executable file has execution permissions. You can do this via the terminal:
+
+chmod +x caca-aos-peixes
+./caca-aos-peixes
+
+
+Run the caca-aos-peixes file to start the game.
+
