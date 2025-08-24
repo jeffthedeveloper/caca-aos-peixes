@@ -79,6 +79,6 @@ Linux
 Give execution permissions:
 
 ```bash
-chmod +x caca-aos-peixes
-./caca-aos-peixes
+chmod +x start.sh
+./start.sh
 ```
