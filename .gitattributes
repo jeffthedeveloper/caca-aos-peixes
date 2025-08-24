@@ -1,2 +1,4 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 caca-aos-peixes-GNU-Version filter=lfs diff=lfs merge=lfs -text
+caca-aos-peixes-GNU-Version/caca-aos-peixes-GNU-Version filter=lfs diff=lfs merge=lfs -text
+caca-aos-peixes-v1.0.2/caca-aos-peixes.exe filter=lfs diff=lfs merge=lfs -text
