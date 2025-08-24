@@ -37,10 +37,12 @@ Um jogo divertido e educativo, multiplataforma, que ensina conceitos de programa
 1. Baixe o último release:  
    👉 [Caça aos Peixes - Linux](https://github.com/jeffthedeveloper/caca-aos-peixes/releases/latest)  
 2. Extraia o `.tar.gz`.
-3. Dê permissão de execução:  
-   ```bash
-   chmod +x caca-aos-peixes
-   ./caca-aos-peixes
+3. Dê permissão de execução ao script de inicialização e execute-o:  
+```bash
+chmod +x start.sh
+./start.sh
+
+
 🚀 Como Contribuir
 Faça um fork.
 
