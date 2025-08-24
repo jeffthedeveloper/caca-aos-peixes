@@ -7,8 +7,8 @@
 ## 🎬 Prévia do Gameplay
 
 ![Prévia do Jogo Caça aos Peixes](https://github.com/jeffthedeveloper/caca-aos-peixes/blob/main/toppng.com-scratch-logo-free-download-916x694.png?raw=true)
-*(Um GIF animado mostrando o gameplay real é altamente recomendado aqui para capturar o interesse do visitante.)*
-
+*Clique na imagem para assistir ao vídeo de prévia (1 minuto) do jogo.*
+<br>*Click on the image to watch a 1-minute gameplay preview*
 ---
 
 ## 🎯 Sobre o Projeto
